@@ -24,6 +24,8 @@ In order to see what scripts we have available, you can either go through the **
 | The "prod" script            | [the-prod-script](#the-prod-script)                 |
 | Scripts that match `prod:*`  | [scripts-that-match-prod](#scripts-that-match-prod) |
 
+<img src="doc_img/Low-Profile-Dog_3.png" alt="low profile dog" style="float: right" align="right">
+
 ---
 
 ## npm Scripts
