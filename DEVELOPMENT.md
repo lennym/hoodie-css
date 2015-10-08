@@ -5,7 +5,7 @@ In order to see what scripts we have available, you can either go through the **
 ## Contents
 
 <p>
-  <img src="doc_img/Low-Profile-Dog_3.png?raw=true" alt="low profile dog" style="max-width:40%;position:absolute;left:60%" align="right">
+  <img src="doc_img/Low-Profile-Dog_3.png?raw=true" alt="low profile dog" align="right">
 </p>
 
 - [npm Scripts](#npm-scripts)
