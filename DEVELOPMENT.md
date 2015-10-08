@@ -4,7 +4,7 @@ In order to see what scripts we have available, you can either go through the **
 
 ## Contents
 
-<img src="doc_img/Low-Profile-Dog_3.png" alt="low profile dog" style="float:right;max-width:40%;" align="right">
+<img src="doc_img/Low-Profile-Dog_3.png" alt="low profile dog" style="max-width:50%;" align="right">
 
 | Topic                        | Direct Link                                         |
 | :--------------------------- | :-------------------------------------------------- |
